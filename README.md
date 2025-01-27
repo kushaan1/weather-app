@@ -1,2 +1,3 @@
-Weather app to get weather by city, by calling OpenWeatherMap API.
-Small project to start fetching data using APIs and did quite a bit (a lot) of CSS.
+## Weather by Cities
+- Simple project to get started with API calls and fetching/parsing `JSON` data.
+- Also took some time to make it look visually appealing, using quite some (a lot) of `CSS`.
