@@ -23,7 +23,7 @@ header {
     overflow: hidden;
     border-right: 0.15em solid #fff;
     max-width: fit-content;
-    font-size: 2rem;
+    font-size: 2.2rem;
     text-align: center;
     color: #f0f0f0;
     text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
@@ -157,6 +157,8 @@ header {
 
     header {
         font-size: 2rem;
+        white-space: normal;
+
     }
 
     #instructions ul {
